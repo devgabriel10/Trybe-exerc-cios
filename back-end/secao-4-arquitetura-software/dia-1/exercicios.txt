@@ -1,0 +1,23 @@
+Exercício 1
+Qual é a importância da arquitetura de software no desenvolvimento de um sistema?
+- A arquitetura de software organiza a aplicação de modo a viabilizar com praticidade 
+sua manutenção, inserção ou atualização de funcionalidades. Realiza este trabalho
+especificando caminhos em arquivos pré definidos.
+
+Exercício 2
+Quais são os principais objetivos da arquitetura de software?
+- Entregar praticidade, organização, redução de custos. Gestão de tempo.
+
+Exercício 3
+Quais são os possíveis desafios ao realizar alterações na arquitetura de um sistema que
+já está em produção?
+- A melhor forma de arquitetar um sistema é em período anterior à construção do código
+da aplicação. Os desafios para promover a mudança citada giram em torno da identificação
+de cada funcionalidade em questão, pois podem existir funções que realizam mais de uma
+tarefa, em arquivos que concentram inúmeras utilidades. A reorganização demandará muito
+esforço e tempo (consequentemente, custos).
+
+Exercício 4
+O que é a camada de model na arquitetura em camadas de software?
+- É a camada responsável por se comunicar com o banco de dados, trabalhando na modelagem
+dos mesmos.
